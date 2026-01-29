@@ -32,7 +32,6 @@ I am a Software Engineering student passionate about building scalable, clean, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
 
 ---
 
