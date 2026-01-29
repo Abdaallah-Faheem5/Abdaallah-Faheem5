@@ -35,36 +35,10 @@ I am a Software Engineering student passionate about building scalable, clean, a
 
 ---
 
-## 🎯 Current Focus
-
-- Building REST APIs with Node.js & Express
-- Improving database design skills
-- Learning TypeScript for scalable applications
-- Strengthening full-stack integration
-
----
-
-## 📈 GitHub Stats
-
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdaallah-Faheem5&show_icons=true&theme=tokyonight)
-
----
 
 ## 📬 Connect With Me
 
 - GitHub: https://github.com/Abdaallah-Faheem5
 - LinkedIn: https://www.linkedin.com/in/abdallah-faheem-169ab5296/
 
----
 
-## ⚡ Personal Mindset
-
-I believe strong developers are built through:
-- Consistent practice
-- Real project experience
-- Problem solving
-- Continuous learning
-
----
-
-⭐ Always working on improving my skills and building impactful projects.
