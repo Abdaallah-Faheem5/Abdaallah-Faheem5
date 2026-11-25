@@ -38,37 +38,22 @@ I enjoy building modern web applications, designing maintainable backend systems
 ---
 
 
+
 ## Technical Arsenal
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Programming Languages</h3>
-      <img src="https://skillicons.dev/icons?i=cs,java,js,ts&theme=dark"/>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Frontend Development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Backend Development</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Database Systems</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
-    </td>
-    <td valign="top" colspan="2">
-      <h3>Development Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
-    </td>
-  </tr>
-</table>
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp; **Frontend** &nbsp;&nbsp;&nbsp;&nbsp; **Backend**
 
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts&theme=dark" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" height="40"/>
+
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp; **Development Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" height="40"/>
 
 ---
+
 
 ## Engineering Focus
 
