@@ -37,20 +37,39 @@ I enjoy building scalable web applications, designing maintainable systems, and 
 
 ---
 
-## Technical Arsenal
 
 ## Tech Stack
 
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Languages**
+<p align="left">
+  <b>Backend</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Frontend</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Languages</b>
+</p>
 
-<img src="https://skillicons.dev/icons?i=express,nodejs,dotnet" height="42"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap,react,css,html" height="42"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts,js,java,cs" height="42"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,nodejs,dotnet&theme=dark" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,css,html&theme=dark" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs&theme=dark" height="40"/>
+</p>
 
-**Development Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Databases**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=npm,postman,vscode,github,git" height="42"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="42"/>
+<p align="left">
+  <b>Development Tools</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Databases</b>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,postman,vscode,github,git&theme=dark" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" height="40"/>
+</p>
+
 
 ---
 
