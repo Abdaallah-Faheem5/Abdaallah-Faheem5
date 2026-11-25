@@ -39,9 +39,18 @@ I enjoy building scalable web applications, designing maintainable systems, and 
 
 ## Technical Arsenal
 
-<p align="left">
-  <img width="100%" src="./assets/tech-stack.svg" alt="Programming languages, frontend, backend, databases and development tools"/>
-</p>
+## Tech Stack
+
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Languages**
+
+<img src="https://skillicons.dev/icons?i=express,nodejs,dotnet" height="42"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap,react,css,html" height="42"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts,js,java,cs" height="42"/>
+
+**Development Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Databases**
+
+<img src="https://skillicons.dev/icons?i=npm,postman,vscode,github,git" height="42"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="42"/>
 
 ---
 
