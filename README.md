@@ -37,31 +37,41 @@ I enjoy building modern web applications, designing maintainable backend systems
 
 ---
 
-## Technical Arsenal
 
-<div align="center">
+## Technical Arsenal
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts&theme=dark"/>
+</p>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
+</p>
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark"/>
+</p>
 
 ### Database Systems
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+</p>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+</p>
 
-</div>
+---
+
 
 ---
 
